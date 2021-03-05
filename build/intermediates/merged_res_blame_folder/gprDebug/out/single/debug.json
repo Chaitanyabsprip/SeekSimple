@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_switch_camera.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_switch_camera.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-anydpi-v24_ic_launcher_foreground_black.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-anydpi-v24/ic_launcher_foreground_black.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xxxhdpi_ic_launcher_foreground_clear.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xxxhdpi/ic_launcher_foreground_clear.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xxhdpi_ic_launcher_foreground_clear.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xxhdpi/ic_launcher_foreground_clear.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xxxhdpi_ic_launcher_foreground_black.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xxxhdpi/ic_launcher_foreground_black.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-hdpi_ic_launcher_foreground_black.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-hdpi/ic_launcher_foreground_black.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-anydpi-v24_ic_launcher_foreground_clear.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-anydpi-v24/ic_launcher_foreground_clear.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xhdpi_ic_launcher_foreground_black.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xhdpi/ic_launcher_foreground_black.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-hdpi_ic_launcher_foreground_clear.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-hdpi/ic_launcher_foreground_clear.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/layout-land_activity_main.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-mdpi_ic_launcher_foreground_clear.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-mdpi/ic_launcher_foreground_clear.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_circle_outline.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_circle_outline.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xxhdpi_ic_launcher_foreground_black.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xxhdpi/ic_launcher_foreground_black.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/font_gotham_bold_regular.ttf.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/font/gotham_bold_regular.ttf"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-ldpi_ic_launcher_foreground_black.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-ldpi/ic_launcher_foreground_black.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/layout_color_bar_dialog.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/layout/color_bar_dialog.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-mdpi_ic_launcher_foreground_black.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-mdpi/ic_launcher_foreground_black.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_square.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_square.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_circle.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_circle.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/layout_activity_main.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_switch_video.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_switch_video.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_center_reticle.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_center_reticle.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xhdpi_ic_launcher_foreground_clear.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xhdpi/ic_launcher_foreground_clear.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-ldpi_ic_launcher_foreground_clear.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-ldpi/ic_launcher_foreground_clear.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable_ic_color_wheel.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/src/main/res/drawable/ic_color_wheel.xml"
+    },
+    {
+        "merged": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/res/merged/gpr/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/generated/res/pngs/gpr/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    }
+]

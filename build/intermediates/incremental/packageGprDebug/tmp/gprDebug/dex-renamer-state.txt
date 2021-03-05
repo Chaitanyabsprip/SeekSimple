@@ -1,0 +1,10 @@
+#Fri Mar 05 16:00:44 IST 2021
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/dex/gprDebug/mergeLibDexGprDebug/classes_0.dex
+base.1=/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/dex/gprDebug/mergeProjectDexGprDebug/classes.dex
+base.0=/home/chaitanya/Downloads/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/Android_SDK_4.2.0.0_Beta/samples/seeksimple/build/intermediates/dex/gprDebug/mergeExtDexGprDebug/classes.dex

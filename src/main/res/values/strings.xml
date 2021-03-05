@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Seek Simple</string>
+    <string name="capture">Capture</string>
+    <string name="info">About</string>
+    <string name="color_lut">Color LUT</string>
+    <string name="thermal_overlay">Overlay</string>
+    <string name="min_lock_value">Min Lock</string>
+    <string name="max_lock_value">Max Lock</string>
+    <string name="reset">Reset</string>
+    <string name="confirm">Confirm</string>
+    <string name="celsius">°C</string>
+    <string name="fahrenheit">°F</string>
+    <string name="linear">LINEAR</string>
+    <string name="hist_eq">HIST EQ</string>
+    <string name="dynamic">Dynamic</string>
+    <string name="full">Full</string>
+    <string name="rounded">Rounded Corners</string>
+    <string name="straight">Straight Corners</string>
+    <string name="border">Border</string>
+    <string name="no_border">No Border</string>
+    <string name="color_bar_settings">Color Bar Settings</string>
+    <string name="seeksimple">Android Camera API 2</string>
+    <string name="take_picture">Take picture</string>
+</resources>

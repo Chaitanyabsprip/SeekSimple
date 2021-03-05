@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from build type: debug -->
+    <string name="version_code" translatable="false">210305</string>
+    <!-- Value from build type: debug -->
+    <string name="version_name" translatable="false">4.2.0.0</string>
+
+</resources>
