@@ -1983,6 +1983,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_main1
 layout color_bar_dialog
 layout custom_dialog
 layout design_bottom_navigation_item

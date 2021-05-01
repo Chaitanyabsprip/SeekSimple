@@ -65,13 +65,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
-//import android.support.annotation.NonNull;
-//import android.support.v4.app.ActivityCompat;
-//import android.support.v7.app.AppCompatActivity;
-//class AndroidCameraApi extends AppCompatActivity {
-//}
 public class MainActivity extends AppCompatActivity {
-//    private static final String TAG = "AndroidCameraApi";
     private TextureView textureView;
     private static final SparseIntArray ORIENTATIONS = new SparseIntArray();
     static {
@@ -80,7 +74,7 @@ public class MainActivity extends AppCompatActivity {
         ORIENTATIONS.append(Surface.ROTATION_180, 270);
         ORIENTATIONS.append(Surface.ROTATION_270, 180);
     }
-    private String cameraId;
+
     protected CameraDevice cameraDevice;
     protected CameraCaptureSession cameraCaptureSessions;
     protected CaptureRequest captureRequest;
@@ -92,21 +86,7 @@ public class MainActivity extends AppCompatActivity {
     private boolean mFlashSupported;
     private Handler mBackgroundHandler;
     private HandlerThread mBackgroundThread;
-//    @Override
-//    protected void onCreate(Bundle savedInstanceState) {
-//        super.onCreate(savedInstanceState);
-//        setContentView(R.layout.activity_android_camera_api);
-//        textureView = (TextureView) findViewById(R.id.texture);
-//        assert textureView != null;
-//        textureView.setSurfaceTextureListener(textureListener);
-//        assert takePictureButton != null;
-//        takePictureButton.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                takePicture();
-//            }
-//        });
-//    }
+
     TextureView.SurfaceTextureListener textureListener = new TextureView.SurfaceTextureListener() {
         @Override
         public void onSurfaceTextureAvailable(SurfaceTexture surface, int width, int height) {
@@ -143,14 +123,7 @@ public class MainActivity extends AppCompatActivity {
             cameraDevice = null;
         }
     };
-    final CameraCaptureSession.CaptureCallback captureCallbackListener = new CameraCaptureSession.CaptureCallback() {
-        @Override
-        public void onCaptureCompleted(CameraCaptureSession session, CaptureRequest request, TotalCaptureResult result) {
-            super.onCaptureCompleted(session, request, result);
-            Toast.makeText(MainActivity.this, "Saved:" + file, Toast.LENGTH_SHORT).show();
-            createCameraPreview();
-        }
-    };
+
     protected void startBackgroundThread() {
         mBackgroundThread = new HandlerThread("Camera Background");
         mBackgroundThread.start();
@@ -285,7 +258,7 @@ public class MainActivity extends AppCompatActivity {
         CameraManager manager = (CameraManager) getSystemService(Context.CAMERA_SERVICE);
         Log.e(TAG, "is camera open");
         try {
-            cameraId = manager.getCameraIdList()[0];
+            String cameraId = manager.getCameraIdList()[0];
             CameraCharacteristics characteristics = manager.getCameraCharacteristics(cameraId);
             StreamConfigurationMap map = characteristics.get(CameraCharacteristics.SCALER_STREAM_CONFIGURATION_MAP);
             assert map != null;
@@ -310,16 +283,6 @@ public class MainActivity extends AppCompatActivity {
             cameraCaptureSessions.setRepeatingRequest(captureRequestBuilder.build(), null, mBackgroundHandler);
         } catch (CameraAccessException e) {
             e.printStackTrace();
-        }
-    }
-    private void closeCamera() {
-        if (null != cameraDevice) {
-            cameraDevice.close();
-            cameraDevice = null;
-        }
-        if (null != imageReader) {
-            imageReader.close();
-            imageReader = null;
         }
     }
 
@@ -450,16 +413,9 @@ public class MainActivity extends AppCompatActivity {
         window.addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
         setContentView(R.layout.activity_main);
 
-        textureView = (TextureView) findViewById(R.id.texture);
+        textureView = findViewById(R.id.texture);
         assert textureView != null;
         textureView.setSurfaceTextureListener(textureListener);
-//        assert takePictureButton != null;
-//        takePictureButton.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                takePicture();
-//            }
-//        });
         simpleOverlay = new SimpleOverlay(this);
 
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LOCKED);

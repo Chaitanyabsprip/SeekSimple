@@ -1,17 +1,8 @@
 com/thermal/seeksimple/BuildConfig.java
  com.thermal.seeksimple.BuildConfig
-com/thermal/seeksimple/SimpleOverlay.java
- com.thermal.seeksimple.SimpleOverlay
- com.thermal.seeksimple.SimpleOverlay$1
- com.thermal.seeksimple.SimpleOverlay$2
- com.thermal.seeksimple.SimpleOverlay$2$1
- com.thermal.seeksimple.SimpleOverlay$3
- com.thermal.seeksimple.SimpleOverlay$4
 com/thermal/seeksimple/MainActivity.java
  com.thermal.seeksimple.MainActivity
  com.thermal.seeksimple.MainActivity$1
- com.thermal.seeksimple.MainActivity$10
- com.thermal.seeksimple.MainActivity$10$1
  com.thermal.seeksimple.MainActivity$2
  com.thermal.seeksimple.MainActivity$3
  com.thermal.seeksimple.MainActivity$4
@@ -20,3 +11,11 @@ com/thermal/seeksimple/MainActivity.java
  com.thermal.seeksimple.MainActivity$7
  com.thermal.seeksimple.MainActivity$8
  com.thermal.seeksimple.MainActivity$9
+ com.thermal.seeksimple.MainActivity$9$1
+com/thermal/seeksimple/SimpleOverlay.java
+ com.thermal.seeksimple.SimpleOverlay
+ com.thermal.seeksimple.SimpleOverlay$1
+ com.thermal.seeksimple.SimpleOverlay$2
+ com.thermal.seeksimple.SimpleOverlay$2$1
+ com.thermal.seeksimple.SimpleOverlay$3
+ com.thermal.seeksimple.SimpleOverlay$4

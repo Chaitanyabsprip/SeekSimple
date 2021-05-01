@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:seek_android_sdk:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/seek_android_sdk/build/.transforms/535efb6ab75e3fc892346324efd41268/jetified-seek_android_sdk_4.2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/seek_android_sdk/build/.transforms/535efb6ab75e3fc892346324efd41268/jetified-seek_android_sdk_4.2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/seek_android_sdk/build/.transforms/535efb6ab75e3fc892346324efd41268/jetified-seek_android_sdk_4.2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

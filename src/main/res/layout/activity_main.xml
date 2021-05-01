@@ -25,14 +25,24 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <com.thermal.seekware.SeekPreview
-            android:id="@+id/seek_preview"
-            android:layout_width="0dp"
-            android:layout_height="0dp"
-            app:layout_constraintDimensionRatio="H, 3:4"
+        <TextureView
+            android:id="@+id/texture"
+            android:layout_width="411dp"
+            android:layout_height="621dp"
+            android:layout_marginBottom="110dp"
+            app:layout_constraintBottom_toBottomOf="@+id/thermal_overlay"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
+
+        <com.thermal.seekware.SeekPreview
+            android:id="@+id/seek_preview"
+            android:layout_width="411dp"
+            android:layout_height="305dp"
+            app:layout_constraintBottom_toBottomOf="@+id/texture"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
